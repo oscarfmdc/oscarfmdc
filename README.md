@@ -4,28 +4,36 @@
 <br/>  
 
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="Go" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50" />   
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="Nifi" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50" />   
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" alt="Databricks" height="50" />   
 </div>  
 
 <br/>  
+
+<div align="center">  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="Go" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" />  
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50" /> 
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
+</div>  
 
 
 ## Connect with me  
