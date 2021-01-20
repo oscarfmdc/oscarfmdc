@@ -59,6 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bases de Datos Relacionales – Introducción](https://aprenderbigdata.com/bases-de-datos-relacionales/)
+- [Introducción a Elasticsearch](https://aprenderbigdata.com/elasticsearch/)
+- [Introducción a Apache Impala](https://aprenderbigdata.com/apache-impala/)
+- [Arquitectura de Microservicios: Introducción](https://aprenderbigdata.com/microservicios/)
+- [Conceptos básicos y Big Data en AWS](https://aprenderbigdata.com/aws-conceptos-basicos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
