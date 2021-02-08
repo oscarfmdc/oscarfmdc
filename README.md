@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Conceptos Básicos de la nube](https://aprenderbigdata.com/conceptos-basicos-de-la-nube/)
 - [Servicios de Seguridad en Azure](https://aprenderbigdata.com/seguridad-azure/)
 - [Apache Kylin – OLAP sobre Hadoop](https://aprenderbigdata.com/apache-kylin/)
 - [Bases de Datos Relacionales – Introducción](https://aprenderbigdata.com/bases-de-datos-relacionales/)
 - [Introducción a Elasticsearch](https://aprenderbigdata.com/elasticsearch/)
-- [Introducción a Apache Impala](https://aprenderbigdata.com/apache-impala/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
