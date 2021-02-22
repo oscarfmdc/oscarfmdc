@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Servicios de Red en Azure](https://aprenderbigdata.com/servicios-red-azure/)
 - [Servicios de Big Data y Bases de Datos en Azure](https://aprenderbigdata.com/bases-de-datos-azure/)
 - [Conceptos Básicos de la nube](https://aprenderbigdata.com/conceptos-basicos-de-la-nube/)
 - [Servicios de Seguridad en Azure](https://aprenderbigdata.com/seguridad-azure/)
 - [Apache Kylin – OLAP sobre Hadoop](https://aprenderbigdata.com/apache-kylin/)
-- [Bases de Datos Relacionales – Introducción](https://aprenderbigdata.com/bases-de-datos-relacionales/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
