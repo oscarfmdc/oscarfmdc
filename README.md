@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Glue: ETL Cloud](https://aprenderbigdata.com/aws-glue/)
 - [Amazon EMR – Elastic MapReduce](https://aprenderbigdata.com/amazon-emr/)
 - [Servicios de Red en Azure](https://aprenderbigdata.com/servicios-red-azure/)
 - [Servicios de Big Data y Bases de Datos en Azure](https://aprenderbigdata.com/bases-de-datos-azure/)
 - [Conceptos Básicos de la nube](https://aprenderbigdata.com/conceptos-basicos-de-la-nube/)
-- [Servicios de Seguridad en Azure](https://aprenderbigdata.com/seguridad-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
