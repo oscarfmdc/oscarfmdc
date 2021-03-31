@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Conoce Azure Synapse Analytics](https://aprenderbigdata.com/azure-synapse-analytics/)
 - [Ethereum: Conoce qué es](https://aprenderbigdata.com/ethereum/)
 - [AZ-900 Certificación Microsoft Azure Fundamentals](https://aprenderbigdata.com/az-900-azure-fundamentals/)
 - [AWS Glue: ETL Cloud](https://aprenderbigdata.com/aws-glue/)
 - [Amazon EMR – Elastic MapReduce](https://aprenderbigdata.com/amazon-emr/)
-- [Servicios de Red en Azure](https://aprenderbigdata.com/servicios-red-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
