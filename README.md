@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducción a MongoDB: Documentos y NoSQL](https://aprenderbigdata.com/mongodb/)
 - [Aprende qué es una Pipeline de Datos](https://aprenderbigdata.com/pipeline-de-datos/)
 - [Conoce Azure Synapse Analytics](https://aprenderbigdata.com/azure-synapse-analytics/)
 - [Ethereum: Conoce qué es](https://aprenderbigdata.com/ethereum/)
 - [AZ-900 Certificación Microsoft Azure Fundamentals](https://aprenderbigdata.com/az-900-azure-fundamentals/)
-- [AWS Glue: ETL Cloud](https://aprenderbigdata.com/aws-glue/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
