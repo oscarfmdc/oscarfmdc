@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejores Cursos para Ingenieros de Datos Online](https://aprenderbigdata.com/mejores-cursos-ingenieros-de-datos/)
 - [Mejores Libros de Arquitectura de Software](https://aprenderbigdata.com/mejores-libros-de-arquitectura-de-software/)
 - [Introducción a MongoDB: Documentos y NoSQL](https://aprenderbigdata.com/mongodb/)
 - [Aprende qué es una Pipeline de Datos](https://aprenderbigdata.com/pipeline-de-datos/)
 - [Conoce Azure Synapse Analytics](https://aprenderbigdata.com/azure-synapse-analytics/)
-- [Ethereum: Conoce qué es](https://aprenderbigdata.com/ethereum/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
