@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Descubre Databricks SQL Analytics](https://aprenderbigdata.com/databricks-sql-analytics/)
 - [Mejores Cursos de Data Science en Udemy en Español](https://aprenderbigdata.com/mejores-cursos-data-science/)
 - [Apache HBase: Introducción](https://aprenderbigdata.com/hbase/)
 - [Azure Cosmos DB – NoSQL en Azure](https://aprenderbigdata.com/cosmosdb/)
 - [Scala: Introducción y Conceptos Básicos](https://aprenderbigdata.com/introduccion-scala/)
-- [Mejores Cursos para Ingenieros de Datos Online](https://aprenderbigdata.com/mejores-cursos-ingenieros-de-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
