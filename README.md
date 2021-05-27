@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seguridad en Hadoop y Cloudera Data Platform (CDP)](https://aprenderbigdata.com/seguridad-cloudera/)
 - [Descubre Databricks SQL Analytics](https://aprenderbigdata.com/databricks-sql-analytics/)
 - [Mejores Cursos de Data Science en Udemy en Español](https://aprenderbigdata.com/mejores-cursos-data-science/)
 - [Apache HBase: Introducción](https://aprenderbigdata.com/hbase/)
 - [Azure Cosmos DB – NoSQL en Azure](https://aprenderbigdata.com/cosmosdb/)
-- [Scala: Introducción y Conceptos Básicos](https://aprenderbigdata.com/introduccion-scala/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
