@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON: Aprende qué es y por qué lo necesitas](https://aprenderbigdata.com/json/)
 - [Mejores Libros de Python para Programadores](https://aprenderbigdata.com/mejores-libros-python/)
 - [Certificaciones de Seguridad de Microsoft](https://aprenderbigdata.com/certificaciones-seguridad-microsoft/)
 - [Mejores Libros de Data Science](https://aprenderbigdata.com/mejores-libros-data-science/)
 - [Cómo crear un proyecto de Apache Spark con IntelliJ](https://aprenderbigdata.com/proyecto-spark-intellij/)
-- [Seguridad en Hadoop y Cloudera Data Platform (CDP)](https://aprenderbigdata.com/seguridad-cloudera/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
