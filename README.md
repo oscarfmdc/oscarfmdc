@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Herramientas BI: Comparando las Mejores Opciones](https://aprenderbigdata.com/herramientas-bi/)
 - [JSON: Aprende qué es y por qué lo necesitas](https://aprenderbigdata.com/json/)
 - [Mejores Libros de Python para Programadores](https://aprenderbigdata.com/mejores-libros-python/)
 - [Certificaciones de Seguridad de Microsoft](https://aprenderbigdata.com/certificaciones-seguridad-microsoft/)
 - [Mejores Libros de Data Science](https://aprenderbigdata.com/mejores-libros-data-science/)
-- [Cómo crear un proyecto de Apache Spark con IntelliJ](https://aprenderbigdata.com/proyecto-spark-intellij/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
