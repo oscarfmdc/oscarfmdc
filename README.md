@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DP-900 Certificación Microsoft Azure Data Fundamentals](https://aprenderbigdata.com/dp-900-azure-data-fundamentals/)
 - [Prometheus: Introducción a la Monitorización de Métricas](https://aprenderbigdata.com/prometheus/)
 - [Mejores Libros de Visualización de Datos](https://aprenderbigdata.com/libros-visualizacion-de-datos/)
 - [Herramientas BI: Comparando las Mejores Opciones](https://aprenderbigdata.com/herramientas-bi/)
 - [JSON: Aprende qué es y por qué lo necesitas](https://aprenderbigdata.com/json/)
-- [Mejores Libros de Python para Programadores](https://aprenderbigdata.com/mejores-libros-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
