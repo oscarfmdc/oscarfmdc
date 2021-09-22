@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducción a Amazon Redshift](https://aprenderbigdata.com/redshift/)
 - [Aprende qué es la Programación Funcional](https://aprenderbigdata.com/programacion-funcional/)
 - [Stack ELK – Aprende qué es](https://aprenderbigdata.com/elk/)
 - [Introducción a Go – GoLang](https://aprenderbigdata.com/introduccion-go/)
 - [Aprendiendo Apache Ozone: Parte 1](https://aprenderbigdata.com/apache-ozone/)
-- [Apache Avro: Una Introducción Sencilla](https://aprenderbigdata.com/apache-avro/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
