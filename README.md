@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kudu: Una Introducción Sencilla](https://aprenderbigdata.com/apache-kudu/)
 - [Introducción a Redis: Base de datos en Memoria](https://aprenderbigdata.com/redis/)
 - [Introducción a Amazon Redshift](https://aprenderbigdata.com/redshift/)
 - [Aprende qué es la Programación Funcional](https://aprenderbigdata.com/programacion-funcional/)
 - [Stack ELK – Aprende qué es](https://aprenderbigdata.com/elk/)
-- [Introducción a Go – GoLang](https://aprenderbigdata.com/introduccion-go/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
