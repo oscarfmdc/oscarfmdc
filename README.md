@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aprende qué es Apache Cloudstack](https://aprenderbigdata.com/cloudstack/)
 - [Conoce Apache Solr con esta Introducción](https://aprenderbigdata.com/solr/)
 - [Chief Data Officer – CDO](https://aprenderbigdata.com/chief-data-officer/)
 - [Introducción a DynamoDB en AWS para Principiantes](https://aprenderbigdata.com/dynamodb/)
 - [CouchDB: Una Introducción Sencilla](https://aprenderbigdata.com/couchdb/)
-- [Gobierno de Datos con Azure Purview](https://aprenderbigdata.com/azure-purview/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
