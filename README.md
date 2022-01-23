@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aprende qué es PrestoDB: Motor SQL Distribuido](https://aprenderbigdata.com/prestodb/)
 - [Mejores Cursos de Bases de Datos en Udemy [Actualizado]](https://aprenderbigdata.com/mejores-cursos-bases-de-datos-udemy/)
 - [Pasos para Conseguir un Trabajo de Ingeniero de Datos](https://aprenderbigdata.com/trabajo-ingeniero-de-datos/)
 - [Aprende qué es Apache Cloudstack](https://aprenderbigdata.com/cloudstack/)
 - [Conoce Apache Solr con esta Introducción](https://aprenderbigdata.com/solr/)
-- [Chief Data Officer – CDO](https://aprenderbigdata.com/chief-data-officer/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
