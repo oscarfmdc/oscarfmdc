@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué son los Proyectos y la Metodología Ágil?](https://aprenderbigdata.com/metodologia-agil/)
 - [Mejores Cursos de Blockchain en Udemy [Actualizado]](https://aprenderbigdata.com/mejores-cursos-blockchain-udemy/)
 - [Aprende qué es PrestoDB: Motor SQL Distribuido](https://aprenderbigdata.com/prestodb/)
 - [Mejores Cursos de Bases de Datos en Udemy [Actualizado]](https://aprenderbigdata.com/mejores-cursos-bases-de-datos-udemy/)
 - [Pasos para Conseguir un Trabajo de Ingeniero de Datos](https://aprenderbigdata.com/trabajo-ingeniero-de-datos/)
-- [Aprende qué es Apache Cloudstack](https://aprenderbigdata.com/cloudstack/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
