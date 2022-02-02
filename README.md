@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejores Cursos de Microsoft Excel en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-excel-udemy/)
 - [¿Qué son los Proyectos y la Metodología Ágil?](https://aprenderbigdata.com/metodologia-agil/)
 - [Mejores Cursos de Blockchain en Udemy [Actualizado]](https://aprenderbigdata.com/mejores-cursos-blockchain-udemy/)
 - [Aprende qué es PrestoDB: Motor SQL Distribuido](https://aprenderbigdata.com/prestodb/)
 - [Mejores Cursos de Bases de Datos en Udemy [Actualizado]](https://aprenderbigdata.com/mejores-cursos-bases-de-datos-udemy/)
-- [Pasos para Conseguir un Trabajo de Ingeniero de Datos](https://aprenderbigdata.com/trabajo-ingeniero-de-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
