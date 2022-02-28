@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arquitectura Lambda para el Procesamiento de Datos](https://aprenderbigdata.com/arquitectura-lambda/)
 - [Bitcoin para Dummies – Aprende qué es en Detalle](https://aprenderbigdata.com/bitcoin/)
 - [Mejores Cursos de Microsoft Excel en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-excel-udemy/)
 - [¿Qué son los Proyectos y la Metodología Ágil?](https://aprenderbigdata.com/metodologia-agil/)
 - [Mejores Cursos de Blockchain en Udemy [Actualizado]](https://aprenderbigdata.com/mejores-cursos-blockchain-udemy/)
-- [Aprende qué es PrestoDB: Motor SQL Distribuido](https://aprenderbigdata.com/prestodb/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
