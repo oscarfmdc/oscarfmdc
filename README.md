@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejores Cursos de Python en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-python/)
 - [Apache Iceberg: El Formato de Tablas](https://aprenderbigdata.com/apache-iceberg/)
 - [Introducción a DeFi: Finanzas Descentralizadas](https://aprenderbigdata.com/defi/)
 - [Mejores cursos de Java en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-java-udemy/)
 - [Arquitectura Lambda en el Procesamiento de Datos](https://aprenderbigdata.com/arquitectura-lambda/)
-- [Bitcoin para Dummies – Aprende qué es en Detalle](https://aprenderbigdata.com/bitcoin/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
