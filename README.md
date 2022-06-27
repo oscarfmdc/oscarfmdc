@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Índices Secundarios en Spark con Hyperspace](https://aprenderbigdata.com/hyperspace-spark/)
 - [Mejores Cursos de Oracle Online [Actualizado]](https://aprenderbigdata.com/cursos-oracle/)
 - [Qué es el Teorema CAP y Cómo afecta a Bases de Datos](https://aprenderbigdata.com/teorema-cap/)
 - [Ingeniería de Datos vs Data Science](https://aprenderbigdata.com/ingenieria-de-datos-vs-data-science/)
 - [Aprende qué es Apache Livy](https://aprenderbigdata.com/apache-livy/)
-- [¿Qué es Data Mesh? Aprende sobre esta Arquitectura de Datos](https://aprenderbigdata.com/data-mesh/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
