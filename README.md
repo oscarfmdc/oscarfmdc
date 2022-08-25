@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arquitectura de Datos: Introducción](https://aprenderbigdata.com/arquitectura-de-datos/)
 - [Mejores Cursos de Data Science en Coursera [Actualizado]](https://aprenderbigdata.com/cursos-de-data-science-coursera/)
 - [Debezium: Introducción a Change Data Capture con Kafka](https://aprenderbigdata.com/debezium/)
 - [DBT: Transformaciones de Datos con SQL](https://aprenderbigdata.com/dbt/)
 - [Índices Secundarios en Spark con Hyperspace](https://aprenderbigdata.com/hyperspace-spark/)
-- [Mejores Cursos de Oracle Online [Actualizado]](https://aprenderbigdata.com/cursos-oracle/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
