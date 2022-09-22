@@ -59,11 +59,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Disaster Recovery en Cloudera CDP](https://aprenderbigdata.com/disaster-recovery-cloudera/)
 - [Big-O Para Principiantes](https://aprenderbigdata.com/big-o/)
 - [Arquitectura de Datos: Introducción](https://aprenderbigdata.com/arquitectura-de-datos/)
 - [Mejores Cursos de Data Science en Coursera [Actualizado]](https://aprenderbigdata.com/cursos-de-data-science-coursera/)
 - [Debezium: Introducción a Change Data Capture con Kafka](https://aprenderbigdata.com/debezium/)
-- [DBT: Transformaciones de Datos con SQL](https://aprenderbigdata.com/dbt/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
