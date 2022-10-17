@@ -1,6 +1,4 @@
-### <div align="center">I'm Oscar, a full-time data engineer 🚀</div>  
-  
-
+## <div align="center">I'm Oscar, a full-time data engineer 🚀</div>  
 <br/>  
 
 <div align="center">  
@@ -34,6 +32,14 @@
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50" /> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 </div>  
+
+### Mis cursos de Tecnologías Big Data
+
+- [Comienza con <strong>Apache Kafka</strong> desde cero](https://go.hotmart.com/V75475436D?dp=1)
+- [<strong>Apache NiFi</strong>: La guía esencial](https://go.hotmart.com/S75352818A?dp=1)
+- [Curso de <strong>Apache Flink</strong> desde Cero](https://go.hotmart.com/E75204047T?dp=1)
+
+<br/> 
 
 
 ## Connect with me  
