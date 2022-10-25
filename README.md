@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarks con TPC-DS](https://aprenderbigdata.com/benchmarks-tpc-ds/)
 - [BigQuery: Introducción al Data Warehouse de Google Cloud](https://aprenderbigdata.com/bigquery/)
 - [Disaster Recovery en Cloudera CDP](https://aprenderbigdata.com/disaster-recovery-cloudera/)
 - [Big-O Para Principiantes](https://aprenderbigdata.com/big-o/)
 - [Arquitectura de Datos: Introducción](https://aprenderbigdata.com/arquitectura-de-datos/)
-- [Mejores Cursos de Data Science en Coursera [Actualizado]](https://aprenderbigdata.com/cursos-de-data-science-coursera/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
