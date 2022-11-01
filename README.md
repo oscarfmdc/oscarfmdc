@@ -65,7 +65,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Qué es Splunk y por qué debería importarte](https://aprenderbigdata.com/splunk/)
+- [Qué es Splunk y por qué Debería Importarte](https://aprenderbigdata.com/splunk/)
 - [Benchmarks con TPC-DS](https://aprenderbigdata.com/benchmarks-tpc-ds/)
 - [BigQuery: Introducción al Data Warehouse de Google Cloud](https://aprenderbigdata.com/bigquery/)
 - [Disaster Recovery en Cloudera CDP](https://aprenderbigdata.com/disaster-recovery-cloudera/)
