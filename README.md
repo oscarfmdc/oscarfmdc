@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Qué es Splunk y por qué debería importarte](https://aprenderbigdata.com/splunk/)
 - [Benchmarks con TPC-DS](https://aprenderbigdata.com/benchmarks-tpc-ds/)
 - [BigQuery: Introducción al Data Warehouse de Google Cloud](https://aprenderbigdata.com/bigquery/)
 - [Disaster Recovery en Cloudera CDP](https://aprenderbigdata.com/disaster-recovery-cloudera/)
 - [Big-O Para Principiantes](https://aprenderbigdata.com/big-o/)
-- [Arquitectura de Datos: Introducción](https://aprenderbigdata.com/arquitectura-de-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
