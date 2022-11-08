@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejores Cursos de JavaScript en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-javascript-udemy/)
 - [Qué es Splunk y por qué Debería Importarte](https://aprenderbigdata.com/splunk/)
 - [Benchmarks con TPC-DS](https://aprenderbigdata.com/benchmarks-tpc-ds/)
 - [BigQuery: Introducción al Data Warehouse de Google Cloud](https://aprenderbigdata.com/bigquery/)
 - [Disaster Recovery en Cloudera CDP](https://aprenderbigdata.com/disaster-recovery-cloudera/)
-- [Big-O Para Principiantes](https://aprenderbigdata.com/big-o/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
