@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guía de Servicios de Datos en Cloud &lpar;Azure, AWS y GCP&rpar;](https://aprenderbigdata.com/servicios-de-datos-cloud/)
 - [Mejores Cursos de JavaScript en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-javascript-udemy/)
 - [Qué es Splunk y por qué Debería Importarte](https://aprenderbigdata.com/splunk/)
 - [Benchmarks con TPC-DS](https://aprenderbigdata.com/benchmarks-tpc-ds/)
 - [BigQuery: Introducción al Data Warehouse de Google Cloud](https://aprenderbigdata.com/bigquery/)
-- [Disaster Recovery en Cloudera CDP](https://aprenderbigdata.com/disaster-recovery-cloudera/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
