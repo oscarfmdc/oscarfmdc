@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Certificación Google Cloud Professional Data Engineer GCP](https://aprenderbigdata.com/certificacion-google-cloud-professional-data-engineer/)
 - [Formato de Datos Columnar y Sus Ventajas en Big Data](https://aprenderbigdata.com/formato-columnar/)
 - [Dataproc: Spark y Hadoop en Google Cloud](https://aprenderbigdata.com/dataproc/)
 - [Guía de Servicios de Datos en Cloud &lpar;Azure, AWS y GCP&rpar;](https://aprenderbigdata.com/servicios-de-datos-cloud/)
 - [Mejores Cursos de JavaScript en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-javascript-udemy/)
-- [Qué es Splunk y por qué Debería Importarte](https://aprenderbigdata.com/splunk/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
