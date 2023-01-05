@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Qué es y qué hace un Científico de Datos](https://aprenderbigdata.com/data-scientist/)
 - [Dataflow: Streaming y Batch en Google Cloud](https://aprenderbigdata.com/dataflow/)
 - [Certificación Google Cloud Professional Data Engineer GCP](https://aprenderbigdata.com/certificacion-google-cloud-professional-data-engineer/)
 - [Formato de Datos Columnar y Sus Ventajas en Big Data](https://aprenderbigdata.com/formato-columnar/)
 - [Dataproc: Spark y Hadoop en Google Cloud](https://aprenderbigdata.com/dataproc/)
-- [Guía de Servicios de Datos en Cloud &lpar;Azure, AWS y GCP&rpar;](https://aprenderbigdata.com/servicios-de-datos-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
