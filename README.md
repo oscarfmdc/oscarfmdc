@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo preparar tu Currículum de Ingeniero de Datos](https://aprenderbigdata.com/curriculum-ingeniero-datos/)
 - [Mejores Cursos de Matemáticas en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-matematicas-udemy/)
 - [Consigue tu Certificación AWS y Destaca en el Mundo Cloud](https://aprenderbigdata.com/certificaciones-aws/)
 - [Qué es y qué hace un Científico de Datos](https://aprenderbigdata.com/data-scientist/)
 - [Dataflow: Streaming y Batch en Google Cloud](https://aprenderbigdata.com/dataflow/)
-- [Certificación Google Cloud Professional Data Engineer GCP](https://aprenderbigdata.com/certificacion-google-cloud-professional-data-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
