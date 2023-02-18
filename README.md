@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejores cursos de SAP en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-sap-udemy/)
 - [¿Máster, Curso Online o Bootcamp para Ingenieros de Datos?](https://aprenderbigdata.com/master-curso-bootcamp-ingeniero-datos/)
 - [Cómo preparar tu Currículum de Ingeniero de Datos](https://aprenderbigdata.com/curriculum-ingeniero-datos/)
 - [Mejores Cursos de Matemáticas en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-matematicas-udemy/)
 - [Consigue tu Certificación AWS y Destaca en el Mundo Cloud](https://aprenderbigdata.com/certificaciones-aws/)
-- [Qué es y qué hace un Científico de Datos](https://aprenderbigdata.com/data-scientist/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
