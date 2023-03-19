@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Triunfa en tu entrevista de Ingeniero de Datos: Consejos clave](https://aprenderbigdata.com/entrevista-ingeniero-datos/)
 - [Descubre TensorFlow: La revolución en aprendizaje automático](https://aprenderbigdata.com/tensorflow/)
 - [Mejores cursos de SAP en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-sap-udemy/)
 - [¿Máster, Curso Online o Bootcamp para Ingenieros de Datos?](https://aprenderbigdata.com/master-curso-bootcamp-ingeniero-datos/)
 - [Cómo preparar tu Currículum de Ingeniero de Datos](https://aprenderbigdata.com/curriculum-ingeniero-datos/)
-- [Mejores Cursos de Matemáticas en Udemy [Actualizado]](https://aprenderbigdata.com/cursos-matematicas-udemy/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
