@@ -1,4 +1,4 @@
-## <div align="center">I'm Oscar, a full-time data engineer 🚀</div>  
+## <div align="center">I'm Oscar, a full-time Data Architect 🚀</div>  
 <br/>  
 
 <div align="center">  
