@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Parquet: Optimiza tus Datos para el Procesamiento](https://aprenderbigdata.com/apache-parquet/)
 - [MLOps: Implementa Modelos de Machine Learning con Éxito](https://aprenderbigdata.com/mlops/)
 - [Mejores Cursos de Sistemas Operativos en Udemy](https://aprenderbigdata.com/cursos-sistemas-operativos/)
 - [5 Ideas de proyectos para ingenieros de datos que te ayudarán a mejorar tus habilidades](https://aprenderbigdata.com/proyectos-ingeniero-datos/)
 - [Data Lakehouse: La solución híbrida para Big Data](https://aprenderbigdata.com/lakehouse/)
-- [Descubre Jupyter Notebook: La herramienta imprescindible para la ciencia de datos](https://aprenderbigdata.com/jupyter-notebook/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
