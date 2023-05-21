@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL: Un vistazo a su arquitectura y cómo utilizarlo en Big Data](https://aprenderbigdata.com/mysql/)
 - [Descubre el Papel Esencial del Analista de Datos](https://aprenderbigdata.com/analista-datos/)
 - [Apache Parquet: Optimiza tus Datos para el Procesamiento](https://aprenderbigdata.com/apache-parquet/)
 - [MLOps: Implementa Modelos de Machine Learning con Éxito](https://aprenderbigdata.com/mlops/)
 - [Mejores Cursos de Sistemas Operativos en Udemy](https://aprenderbigdata.com/cursos-sistemas-operativos/)
-- [5 Ideas de proyectos para ingenieros de datos que te ayudarán a mejorar tus habilidades](https://aprenderbigdata.com/proyectos-ingeniero-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
