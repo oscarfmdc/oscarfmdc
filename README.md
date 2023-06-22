@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo Configurar la Seguridad en Apache NiFi](https://aprenderbigdata.com/seguridad-apache-nifi/)
 - [¿Qué es el Complex Event Processing? – CEP](https://aprenderbigdata.com/complex-event-processing/)
 - [5 Errores Comunes con Apache Flink y Cómo Evitarlos](https://aprenderbigdata.com/errores-apache-flink/)
 - [Power BI: Descubre el poder del análisis de datos](https://aprenderbigdata.com/power-bi/)
 - [MySQL: Un vistazo a su arquitectura y cómo utilizarlo en Big Data](https://aprenderbigdata.com/mysql/)
-- [Descubre el Papel Esencial del Analista de Datos](https://aprenderbigdata.com/analista-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
