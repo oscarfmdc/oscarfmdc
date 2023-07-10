@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Particiones de Datos para el Procesamiento](https://aprenderbigdata.com/particiones-datos/)
+- [Data Sharing: Potenciando la Colaboración Empresarial](https://aprenderbigdata.com/data-sharing/)
 - [Desarrollo de Procesadores Personalizados en Apache NiFi](https://aprenderbigdata.com/procesadores-personalizados-nifi/)
 - [Snowflake Schema – El Esquema de Copos de Nieve](https://aprenderbigdata.com/snowflake-schema/)
 - [Gobierno de Datos: Cómo Asegurar la Calidad y Privacidad](https://aprenderbigdata.com/gobierno-datos/)
-- [Cómo Configurar la Seguridad en Apache NiFi](https://aprenderbigdata.com/seguridad-apache-nifi/)
-- [¿Qué es el Complex Event Processing? – CEP](https://aprenderbigdata.com/complex-event-processing/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
