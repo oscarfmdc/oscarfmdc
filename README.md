@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Desarrollo de Procesadores Personalizados en Apache NiFi](https://aprenderbigdata.com/procesadores-personalizados-nifi/)
 - [Snowflake Schema – El Esquema de Copos de Nieve](https://aprenderbigdata.com/snowflake-schema/)
 - [Gobierno de Datos: Cómo Asegurar la Calidad y Privacidad](https://aprenderbigdata.com/gobierno-datos/)
 - [Cómo Configurar la Seguridad en Apache NiFi](https://aprenderbigdata.com/seguridad-apache-nifi/)
 - [¿Qué es el Complex Event Processing? – CEP](https://aprenderbigdata.com/complex-event-processing/)
-- [5 Errores Comunes con Apache Flink y Cómo Evitarlos](https://aprenderbigdata.com/errores-apache-flink/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
