@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning: El Futuro de la Inteligencia Artificial](https://aprenderbigdata.com/machine-learning/)
 - [Dark Data: Descubriendo el Valor Oculto de los Datos](https://aprenderbigdata.com/dark-data/)
 - [Particiones de Datos para el Procesamiento](https://aprenderbigdata.com/particiones-datos/)
 - [Data Sharing: Potenciando la Colaboración Empresarial](https://aprenderbigdata.com/data-sharing/)
 - [Desarrollo de Procesadores Personalizados en Apache NiFi](https://aprenderbigdata.com/procesadores-personalizados-nifi/)
-- [Snowflake Schema – El Esquema de Copos de Nieve](https://aprenderbigdata.com/snowflake-schema/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
