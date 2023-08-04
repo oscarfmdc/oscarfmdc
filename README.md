@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Calcite: Optimiza tus Consultas SQL](https://aprenderbigdata.com/apache-calcite/)
 - [Machine Learning: El Futuro de la Inteligencia Artificial](https://aprenderbigdata.com/machine-learning/)
 - [Dark Data: Descubriendo el Valor Oculto de los Datos](https://aprenderbigdata.com/dark-data/)
 - [Particiones de Datos para el Procesamiento](https://aprenderbigdata.com/particiones-datos/)
 - [Data Sharing: Potenciando la Colaboración Empresarial](https://aprenderbigdata.com/data-sharing/)
-- [Desarrollo de Procesadores Personalizados en Apache NiFi](https://aprenderbigdata.com/procesadores-personalizados-nifi/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
