@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Beam: El Framework Híbrido de Procesamiento de Datos](https://aprenderbigdata.com/apache-beam/)
 - [Apache Calcite: Optimiza tus Consultas SQL](https://aprenderbigdata.com/apache-calcite/)
 - [Machine Learning: El Futuro de la Inteligencia Artificial](https://aprenderbigdata.com/machine-learning/)
 - [Dark Data: Descubriendo el Valor Oculto de los Datos](https://aprenderbigdata.com/dark-data/)
 - [Particiones de Datos para el Procesamiento](https://aprenderbigdata.com/particiones-datos/)
-- [Data Sharing: Potenciando la Colaboración Empresarial](https://aprenderbigdata.com/data-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
