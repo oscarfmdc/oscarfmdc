@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RStudio: Simplifica tu análisis de datos y el cálculo estadístico](https://aprenderbigdata.com/rstudio/)
+- [Ansible: Automatizando la Infraestructura de TI](https://aprenderbigdata.com/ansible/)
 - [Amazon SageMaker: La Revolución del Aprendizaje Automático](https://aprenderbigdata.com/sagemaker/)
 - [Apache Beam: El Framework Híbrido de Procesamiento de Datos](https://aprenderbigdata.com/apache-beam/)
 - [Apache Calcite: Optimiza tus Consultas SQL](https://aprenderbigdata.com/apache-calcite/)
-- [Machine Learning: El Futuro de la Inteligencia Artificial](https://aprenderbigdata.com/machine-learning/)
-- [Dark Data: Descubriendo el Valor Oculto de los Datos](https://aprenderbigdata.com/dark-data/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
