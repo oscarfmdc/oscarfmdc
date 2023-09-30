@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [El DataFrame: Fundamentos del Análislis de Datos](https://aprenderbigdata.com/dataframe/)
 - [Apache Drill: Exploración Big Data con Velocidad y Flexibilidad](https://aprenderbigdata.com/apache-drill/)
 - [RStudio: Simplifica tu análisis de datos y el cálculo estadístico](https://aprenderbigdata.com/rstudio/)
 - [Ansible: Automatizando la Infraestructura de TI](https://aprenderbigdata.com/ansible/)
 - [Amazon SageMaker: La Revolución del Aprendizaje Automático](https://aprenderbigdata.com/sagemaker/)
-- [Apache Beam: El Framework Híbrido de Procesamiento de Datos](https://aprenderbigdata.com/apache-beam/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
