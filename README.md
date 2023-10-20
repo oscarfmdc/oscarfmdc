@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [StreamSets: Gestión de Datos en Tiempo Real](https://aprenderbigdata.com/streamsets/)
 - [Tipos de Análisis Predictivo: Clasificación y Regresión](https://aprenderbigdata.com/analisis-predictivo/)
 - [Los Mejores Lenguajes de Programación Big Data](https://aprenderbigdata.com/lenguajes-programacion-big-data/)
 - [Red Neuronal: Una Introducción a la Inteligencia Artificial](https://aprenderbigdata.com/red-neuronal/)
 - [El DataFrame: Fundamentos del Análislis de Datos](https://aprenderbigdata.com/dataframe/)
-- [Apache Drill: Exploración Big Data con Velocidad y Flexibilidad](https://aprenderbigdata.com/apache-drill/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
