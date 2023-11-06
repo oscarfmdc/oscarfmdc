@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducción a la Inteligencia Artificial Generativa](https://aprenderbigdata.com/inteligencia-artificial-generativa/)
 - [Introducción a PostgreSQL](https://aprenderbigdata.com/postgresql/)
 - [Oozie: Flujos de Trabajo en Hadoop](https://aprenderbigdata.com/oozie/)
 - [StreamSets: Gestión de Datos en Tiempo Real](https://aprenderbigdata.com/streamsets/)
 - [Tipos de Análisis Predictivo: Clasificación y Regresión](https://aprenderbigdata.com/analisis-predictivo/)
-- [Los Mejores Lenguajes de Programación Big Data](https://aprenderbigdata.com/lenguajes-programacion-big-data/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
