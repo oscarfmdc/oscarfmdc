@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Talend: Tratamiento de Datos Empresarial](https://aprenderbigdata.com/talend/)
 - [Introducción a la Inteligencia Artificial Generativa](https://aprenderbigdata.com/inteligencia-artificial-generativa/)
 - [Introducción a PostgreSQL](https://aprenderbigdata.com/postgresql/)
 - [Oozie: Flujos de Trabajo en Hadoop](https://aprenderbigdata.com/oozie/)
 - [StreamSets: Gestión de Datos en Tiempo Real](https://aprenderbigdata.com/streamsets/)
-- [Tipos de Análisis Predictivo: Clasificación y Regresión](https://aprenderbigdata.com/analisis-predictivo/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
