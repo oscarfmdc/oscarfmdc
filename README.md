@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pentaho: Solución Integral para la Gestión de Datos](https://aprenderbigdata.com/pentaho/)
 - [Exadata: Base de datos Empresarial de Oracle](https://aprenderbigdata.com/exadata/)
 - [Talend: Tratamiento de Datos Empresarial](https://aprenderbigdata.com/talend/)
 - [Introducción a la Inteligencia Artificial Generativa](https://aprenderbigdata.com/inteligencia-artificial-generativa/)
 - [Introducción a PostgreSQL](https://aprenderbigdata.com/postgresql/)
-- [Oozie: Flujos de Trabajo en Hadoop](https://aprenderbigdata.com/oozie/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
