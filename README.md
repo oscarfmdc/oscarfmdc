@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inteligencia Artificial General &lpar;AGI&rpar;](https://aprenderbigdata.com/inteligencia-artificial-general/)
 - [Descubre Delta Lake y Optimiza tus Datos](https://aprenderbigdata.com/delta-lake/)
 - [Pentaho: Solución Integral para la Gestión de Datos](https://aprenderbigdata.com/pentaho/)
 - [Exadata: Base de datos Empresarial de Oracle](https://aprenderbigdata.com/exadata/)
 - [Talend: Tratamiento de Datos Empresarial](https://aprenderbigdata.com/talend/)
-- [Introducción a la Inteligencia Artificial Generativa](https://aprenderbigdata.com/inteligencia-artificial-generativa/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
