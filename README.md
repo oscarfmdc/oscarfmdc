@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Conoce DEVO: Analítica y SIEM SaaS](https://aprenderbigdata.com/devo/)
 - [Qué es el Thick Data y su Importancia en el Mundo Empresarial](https://aprenderbigdata.com/thick-data/)
 - [Introducción a Amazon Athena](https://aprenderbigdata.com/amazon-athena/)
 - [Inteligencia Artificial General &lpar;AGI&rpar;](https://aprenderbigdata.com/inteligencia-artificial-general/)
 - [Descubre Delta Lake y Optimiza tus Datos](https://aprenderbigdata.com/delta-lake/)
-- [Pentaho: Solución Integral para la Gestión de Datos](https://aprenderbigdata.com/pentaho/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
