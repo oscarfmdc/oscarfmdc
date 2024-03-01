@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coordinación Distribuida con Apache Zookeeper](https://aprenderbigdata.com/zookeeper/)
 - [Conoce DEVO: Analítica y SIEM SaaS](https://aprenderbigdata.com/devo/)
 - [Qué es el Thick Data y su Importancia en el Mundo Empresarial](https://aprenderbigdata.com/thick-data/)
 - [Introducción a Amazon Athena](https://aprenderbigdata.com/amazon-athena/)
 - [Inteligencia Artificial General &lpar;AGI&rpar;](https://aprenderbigdata.com/inteligencia-artificial-general/)
-- [Descubre Delta Lake y Optimiza tus Datos](https://aprenderbigdata.com/delta-lake/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
