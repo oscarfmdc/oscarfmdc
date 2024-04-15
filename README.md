@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Descubre qué es Microsoft Fabric](https://aprenderbigdata.com/microsoft-fabric/)
 - [DePIN – Redes Descentralizadas de Infraestructura Física](https://aprenderbigdata.com/depin/)
 - [Formación Continua en Big Data](https://aprenderbigdata.com/formacion-continua-data/)
 - [Coordinación Distribuida con Apache Zookeeper](https://aprenderbigdata.com/zookeeper/)
 - [Conoce DEVO: Analítica y SIEM SaaS](https://aprenderbigdata.com/devo/)
-- [Qué es el Thick Data y su Importancia en el Mundo Empresarial](https://aprenderbigdata.com/thick-data/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
