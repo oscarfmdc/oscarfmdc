@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Couchbase: Comprendiendo la Base de Datos NoSQL](https://aprenderbigdata.com/couchbase/)
 - [Descubre qué es Microsoft Fabric](https://aprenderbigdata.com/microsoft-fabric/)
 - [DePIN – Redes Descentralizadas de Infraestructura Física](https://aprenderbigdata.com/depin/)
 - [Formación Continua en Big Data](https://aprenderbigdata.com/formacion-continua-data/)
 - [Coordinación Distribuida con Apache Zookeeper](https://aprenderbigdata.com/zookeeper/)
-- [Conoce DEVO: Analítica y SIEM SaaS](https://aprenderbigdata.com/devo/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
