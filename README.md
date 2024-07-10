@@ -65,11 +65,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Qué es un Private Link en Azure](https://aprenderbigdata.com/private-link-azure/)
 - [Cómo Optimizar Clústers en Databricks](https://aprenderbigdata.com/optimizar-clusters-databricks/)
 - [Introducción a los Documentos de Arquitectura](https://aprenderbigdata.com/documentos-arquitectura/)
 - [Couchbase: Comprendiendo la Base de Datos NoSQL](https://aprenderbigdata.com/couchbase/)
 - [Descubre qué es Microsoft Fabric](https://aprenderbigdata.com/microsoft-fabric/)
-- [DePIN – Redes Descentralizadas de Infraestructura Física](https://aprenderbigdata.com/depin/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
