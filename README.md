@@ -17,7 +17,7 @@
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="50" />  
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" height="50" />  
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" alt="Databricks" height="50" />   
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" alt="Cloudera" height="50" />   
 </div>  
 
 <br/>  
@@ -44,17 +44,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/oscarfmdc" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/oscarfmdc" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/oscarfmdc" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/oscarfmdc" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/c/AprenderBigData" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -71,8 +65,3 @@
 - [Introducción a los Documentos de Arquitectura](https://aprenderbigdata.com/documentos-arquitectura/)
 - [Couchbase: Comprendiendo la Base de Datos NoSQL](https://aprenderbigdata.com/couchbase/)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oscarfmdc&show_icons=true&count_private=true" align="center" /></div>  
