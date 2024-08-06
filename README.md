@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducción a la Arquitectura Medallion](https://aprenderbigdata.com/arquitectura-medallion/)
 - [Introducción a Azure Event Hubs](https://aprenderbigdata.com/event-hubs/)
 - [Curso Gratis de Ingeniero de Datos en Google Cloud](https://aprenderbigdata.com/curso-ingenieria-datos-google-cloud/)
 - [Qué es un Private Link en Azure](https://aprenderbigdata.com/private-link-azure/)
 - [Cómo Optimizar Clústers en Databricks](https://aprenderbigdata.com/optimizar-clusters-databricks/)
-- [Introducción a los Documentos de Arquitectura](https://aprenderbigdata.com/documentos-arquitectura/)
 <!-- BLOG-POST-LIST:END -->
