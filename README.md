@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducción a NiFi Registry: Gestión y Versionado de Flujos](https://aprenderbigdata.com/nifi-registry/)
 - [Kafka Connect: Integración de Datos en Tiempo Real Simplificada](https://aprenderbigdata.com/kafka-connect/)
 - [Introducción a Apache MiNiFi](https://aprenderbigdata.com/minifi/)
 - [Introducción y Conceptos Clave del Big Data Geoespacial](https://aprenderbigdata.com/big-data-geoespacial/)
 - [¿Qué es FinOps?](https://aprenderbigdata.com/finops/)
-- [Introducción a la Arquitectura Medallion](https://aprenderbigdata.com/arquitectura-medallion/)
 <!-- BLOG-POST-LIST:END -->
