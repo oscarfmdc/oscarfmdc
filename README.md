@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GenAI vs Machine Learning](https://aprenderbigdata.com/genai-vs-machine-learning/)
 - [Certificaciones de Google Inteligencia Artificial](https://aprenderbigdata.com/certificaciones-google-inteligencia-artificial/)
 - [Azure Data Lake Storage &lpar;ADLS Gen2&rpar;](https://aprenderbigdata.com/adls/)
 - [Introducción a NiFi Registry: Gestión y Versionado de Flujos](https://aprenderbigdata.com/nifi-registry/)
 - [Kafka Connect: Integración de Datos en Tiempo Real Simplificada](https://aprenderbigdata.com/kafka-connect/)
-- [Introducción a Apache MiNiFi](https://aprenderbigdata.com/minifi/)
 <!-- BLOG-POST-LIST:END -->
