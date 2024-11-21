@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursos Recomendados de Visualización de Datos](https://aprenderbigdata.com/cursos-visualizacion-datos/)
 - [Apache Superset: Visualización de Datos Open Source](https://aprenderbigdata.com/superset/)
 - [GenAI vs Machine Learning](https://aprenderbigdata.com/genai-vs-machine-learning/)
 - [Certificaciones de Google Inteligencia Artificial](https://aprenderbigdata.com/certificaciones-google-inteligencia-artificial/)
 - [Azure Data Lake Storage &lpar;ADLS Gen2&rpar;](https://aprenderbigdata.com/adls/)
-- [Introducción a NiFi Registry: Gestión y Versionado de Flujos](https://aprenderbigdata.com/nifi-registry/)
 <!-- BLOG-POST-LIST:END -->
