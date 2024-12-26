@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unity Catalog: Gobernanza de Datos Centralizada en Databricks](https://aprenderbigdata.com/unity-catalog/)
 - [Ab Initio: ETL y Procesamiento de Datos](https://aprenderbigdata.com/ab-initio/)
 - [Apache HUE: La Interfaz Gráfica del Ecosistema Hadoop](https://aprenderbigdata.com/hue/)
 - [Cursos Recomendados de Visualización de Datos](https://aprenderbigdata.com/cursos-visualizacion-datos/)
 - [Apache Superset: Visualización de Datos Open Source](https://aprenderbigdata.com/superset/)
-- [GenAI vs Machine Learning](https://aprenderbigdata.com/genai-vs-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
