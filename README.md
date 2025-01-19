@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué es OpenShift? Líder en la gestión de Aplicaciones](https://aprenderbigdata.com/openshift/)
 - [Apache Sqoop: Funcionalidad y Evolución](https://aprenderbigdata.com/sqoop/)
 - [Certificaciones en Cloudera y Formación](https://aprenderbigdata.com/certificaciones-cloudera/)
 - [Unity Catalog: Gobernanza de Datos Centralizada en Databricks](https://aprenderbigdata.com/unity-catalog/)
 - [Ab Initio: ETL y Procesamiento de Datos](https://aprenderbigdata.com/ab-initio/)
-- [Apache HUE: La Interfaz Gráfica del Ecosistema Hadoop](https://aprenderbigdata.com/hue/)
 <!-- BLOG-POST-LIST:END -->
