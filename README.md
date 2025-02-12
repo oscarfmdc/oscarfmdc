@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Airbyte: La Revolución en la Integración de Datos](https://aprenderbigdata.com/airbyte/)
+- [NiFi vs Kafka: Comparación, Diferencias y Cuál Elegir](https://aprenderbigdata.com/nifi-vs-kafka/)
 - [¿Qué es OpenShift? Líder en la gestión de Aplicaciones](https://aprenderbigdata.com/openshift/)
 - [MOOC Data Science: Inicia tu Carrera en Ciencia de Datos](https://aprenderbigdata.com/mooc-data-science/)
 - [Apache Sqoop: Funcionalidad y Evolución](https://aprenderbigdata.com/sqoop/)
-- [Certificaciones en Cloudera y Formación](https://aprenderbigdata.com/certificaciones-cloudera/)
-- [Unity Catalog: Gobernanza de Datos Centralizada en Databricks](https://aprenderbigdata.com/unity-catalog/)
 <!-- BLOG-POST-LIST:END -->
