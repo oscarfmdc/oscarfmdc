@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejor Grado en Ingeniería Informática en 2025](https://aprenderbigdata.com/ingenieria-informatica/)
 - [Recopilación de Preguntas para Entrevista de Data Engineer](https://aprenderbigdata.com/preguntas-data-engineer/)
 - [Dataiku: Preparación y Análisis de Datos con IA](https://aprenderbigdata.com/dataiku/)
 - [Dagster: Orquestación para Ingenieros de Datos](https://aprenderbigdata.com/dagster/)
 - [Airbyte: La Revolución en la Integración de Datos](https://aprenderbigdata.com/airbyte/)
-- [NiFi vs Kafka: Comparación, Diferencias y Cuál Elegir](https://aprenderbigdata.com/nifi-vs-kafka/)
 <!-- BLOG-POST-LIST:END -->
