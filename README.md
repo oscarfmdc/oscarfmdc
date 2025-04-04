@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks SQL: Análisis de Datos en la Nube](https://aprenderbigdata.com/databricks-sql/)
 - [Certificaciones en Databricks](https://aprenderbigdata.com/certificaciones-databricks/)
 - [Databricks CLI: Esenciales para Ingenieros de Datos](https://aprenderbigdata.com/databricks-cli/)
 - [Delta Live Tables: Optimiza ETLs en Databricks](https://aprenderbigdata.com/delta-live-tables/)
 - [Mejor Grado en Ingeniería Informática en 2025](https://aprenderbigdata.com/ingenieria-informatica/)
-- [Recopilación de Preguntas para Entrevista de Data Engineer](https://aprenderbigdata.com/preguntas-data-engineer/)
 <!-- BLOG-POST-LIST:END -->
