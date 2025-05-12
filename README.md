@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kafka sin Zookeeper: Cómo funciona KRaft](https://aprenderbigdata.com/kafka-sin-zookeeper/)
+- [Reverse ETL: Qué es y cómo implementarlo con éxito](https://aprenderbigdata.com/reverse-etl/)
 - [Databricks SQL: Análisis de Datos en la Nube](https://aprenderbigdata.com/databricks-sql/)
 - [Certificaciones en Databricks](https://aprenderbigdata.com/certificaciones-databricks/)
 - [Databricks CLI: Esenciales para Ingenieros de Datos](https://aprenderbigdata.com/databricks-cli/)
-- [Delta Live Tables: Optimiza ETLs en Databricks](https://aprenderbigdata.com/delta-live-tables/)
-- [Mejor Grado en Ingeniería Informática en 2025](https://aprenderbigdata.com/ingenieria-informatica/)
 <!-- BLOG-POST-LIST:END -->
