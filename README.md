@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake Data Sharing: Comparte datos de forma segura](https://aprenderbigdata.com/snowflake-data-sharing/)
 - [Kafka sin Zookeeper: Cómo funciona KRaft](https://aprenderbigdata.com/kafka-sin-zookeeper/)
 - [Reverse ETL: Qué es y cómo implementarlo con éxito](https://aprenderbigdata.com/reverse-etl/)
 - [Databricks SQL: Análisis de Datos en la Nube](https://aprenderbigdata.com/databricks-sql/)
 - [Certificaciones en Databricks](https://aprenderbigdata.com/certificaciones-databricks/)
-- [Databricks CLI: Esenciales para Ingenieros de Datos](https://aprenderbigdata.com/databricks-cli/)
 <!-- BLOG-POST-LIST:END -->
