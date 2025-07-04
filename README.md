@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [¿ETL o ELT? La pelea – Newsletter 39](https://aprenderbigdata.com/etl-elt-nw/)
+- [Anonimización de datos – Newsletter #40](https://aprenderbigdata.com/anonimizacion-datos-nw/)
 - [Snowflake Warehouses: Guía rápida para entenderlos](https://aprenderbigdata.com/snowflake-warehouse/)
 - [Cómo ejecutar código Java en Databricks](https://aprenderbigdata.com/java-databricks/)
 - [Databricks Cluster Pools](https://aprenderbigdata.com/databricks-cluster-pools/)
-- [Snowflake Data Sharing: Comparte datos de forma segura](https://aprenderbigdata.com/snowflake-data-sharing/)
-- [Kafka sin Zookeeper: Cómo funciona KRaft](https://aprenderbigdata.com/kafka-sin-zookeeper/)
 <!-- BLOG-POST-LIST:END -->
