@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pipeline de Machine Learning Paso a Paso](https://aprenderbigdata.com/pipeline-machine-learning/)
 - [¿ETL o ELT? La pelea – Newsletter 39](https://aprenderbigdata.com/etl-elt-nw/)
 - [Anonimización de datos – Newsletter #40](https://aprenderbigdata.com/anonimizacion-datos-nw/)
 - [Snowflake Warehouses: Guía rápida para entenderlos](https://aprenderbigdata.com/snowflake-warehouse/)
 - [Cómo ejecutar código Java en Databricks](https://aprenderbigdata.com/java-databricks/)
-- [Databricks Cluster Pools](https://aprenderbigdata.com/databricks-cluster-pools/)
 <!-- BLOG-POST-LIST:END -->
