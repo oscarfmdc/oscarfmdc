@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mejores Cursos de Programación: La Guía Definitiva para Empezar](https://aprenderbigdata.com/mejores-cursos-programacion/)
 - [Patrones Apache Kafka y Buenas Prácticas](https://aprenderbigdata.com/patrones-apache-kafka/)
 - [Agentes de IA: El Nuevo Horizonte en Inteligencia Artificial](https://aprenderbigdata.com/agente-ia/)
 - [Mejores cursos de inteligencia artificial: Ruta para dominar la IA](https://aprenderbigdata.com/mejores-cursos-inteligencia-artificial/)
 - [Pipeline de Machine Learning Paso a Paso](https://aprenderbigdata.com/pipeline-machine-learning/)
-- [¿ETL o ELT? La pelea – Newsletter 39](https://aprenderbigdata.com/etl-elt-nw/)
 <!-- BLOG-POST-LIST:END -->
