@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Cuál es el mejor máster en Business Intelligence en 2025?](https://aprenderbigdata.com/mejor-master-business-intelligence/)
 - [De Data Scientist a Data Engineer: Tu Roadmap 2025](https://aprenderbigdata.com/roadmap-data-scientist-a-data-engineer/)
 - [Los Roles de Datos con Más Futuro en 2025 &lpar;y más allá&rpar;](https://aprenderbigdata.com/roles-de-datos-con-futuro/)
 - [Mejores Cursos de Programación: La Guía Definitiva para Empezar](https://aprenderbigdata.com/mejores-cursos-programacion/)
 - [Patrones Apache Kafka y Buenas Prácticas](https://aprenderbigdata.com/patrones-apache-kafka/)
-- [Agentes de IA: El Nuevo Horizonte en Inteligencia Artificial](https://aprenderbigdata.com/agente-ia/)
 <!-- BLOG-POST-LIST:END -->
