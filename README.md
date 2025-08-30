@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks vs Microsoft Fabric: ¿Cuál elegir y por qué?](https://aprenderbigdata.com/databricks-vs-fabric/)
 - [Databricks Lakebase: Base de datos AI-native para OLTP y OLAP](https://aprenderbigdata.com/databricks-lakebase/)
 - [Qué es la normalización de bases de datos y cómo aplicarla](https://aprenderbigdata.com/normalizacion-bases-de-datos/)
 - [¿Cuál es el mejor máster en Business Intelligence en 2025?](https://aprenderbigdata.com/mejor-master-business-intelligence/)
 - [De Data Scientist a Data Engineer: Tu Roadmap 2025](https://aprenderbigdata.com/roadmap-data-scientist-a-data-engineer/)
-- [Los Roles de Datos con Más Futuro en 2025 &lpar;y más allá&rpar;](https://aprenderbigdata.com/roles-de-datos-con-futuro/)
 <!-- BLOG-POST-LIST:END -->
