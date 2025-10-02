@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas vs Spark: ¿cuál elegir para tu proyecto de datos?](https://aprenderbigdata.com/pandas-vs-spark/)
+- [Base de datos vectorial: Cómo funciona y casos de uso reales](https://aprenderbigdata.com/base-de-datos-vectorial/)
 - [Almacenamiento Frio en Snowflake](https://aprenderbigdata.com/almacenamiento-frio-snowflake/)
 - [Data Lake Backup: Errores Comunes y Soluciones](https://aprenderbigdata.com/data-lake-backup/)
 - [Databricks vs Microsoft Fabric: ¿Cuál elegir y por qué?](https://aprenderbigdata.com/databricks-vs-fabric/)
-- [Databricks Lakebase: Base de datos AI-native para OLTP y OLAP](https://aprenderbigdata.com/databricks-lakebase/)
-- [Qué es la normalización de bases de datos y cómo aplicarla](https://aprenderbigdata.com/normalizacion-bases-de-datos/)
 <!-- BLOG-POST-LIST:END -->
