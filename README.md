@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks vs Snowflake: comparación real y casos de uso](https://aprenderbigdata.com/databricks-vs-snowflake/)
 - [Historia del Big Data: el sorprendente origen de todo](https://aprenderbigdata.com/historia-big-data/)
 - [Modelos de Razonamiento y Por Qué Importan](https://aprenderbigdata.com/modelos-de-razonamiento/)
 - [Pandas vs Spark: ¿cuál elegir para tu proyecto de datos?](https://aprenderbigdata.com/pandas-vs-spark/)
 - [Base de datos vectorial: Cómo funciona y casos de uso reales](https://aprenderbigdata.com/base-de-datos-vectorial/)
-- [Almacenamiento Frio en Snowflake](https://aprenderbigdata.com/almacenamiento-frio-snowflake/)
 <!-- BLOG-POST-LIST:END -->
