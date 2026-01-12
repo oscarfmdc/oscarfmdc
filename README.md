@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kimball vs Inmon: cuándo usar cada enfoque de Data Warehouse](https://aprenderbigdata.com/kimball-vs-inmon/)
+- [Certificaciones de Ingeniero de Datos: cuáles valen la pena](https://aprenderbigdata.com/certificaciones-ingeniero-de-datos/)
 - [Databricks vs EMR: diferencias clave y cuándo elegir cada uno](https://aprenderbigdata.com/databricks-vs-emr/)
 - [Databricks Workflows: qué son y cuándo usarlos](https://aprenderbigdata.com/databricks-workflows/)
 - [Databricks vs Snowflake: comparación real y casos de uso](https://aprenderbigdata.com/databricks-vs-snowflake/)
-- [Historia del Big Data: el sorprendente origen de todo](https://aprenderbigdata.com/historia-big-data/)
-- [Modelos de Razonamiento y Por Qué Importan](https://aprenderbigdata.com/modelos-de-razonamiento/)
 <!-- BLOG-POST-LIST:END -->
