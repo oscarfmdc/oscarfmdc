@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ingeniería de datos e inteligencia artificial: cómo los agentes de IA cambiarán tu carrera](https://aprenderbigdata.com/ingenieria-datos-inteligencia-artificial/)
 - [Coste del data stack moderno: Evita gastar miles sin necesidad](https://aprenderbigdata.com/coste-data-stack-moderno/)
 - [El futuro del trabajo en 2026: cómo adaptarte y no quedarte atrás](https://aprenderbigdata.com/el-futuro-del-trabajo/)
 - [De programador a Data Engineer: La transición con éxito](https://aprenderbigdata.com/programador-a-data-engineer/)
 - [Kimball vs Inmon: cuándo usar cada enfoque de Data Warehouse](https://aprenderbigdata.com/kimball-vs-inmon/)
-- [Certificaciones de Ingeniero de Datos: cuáles valen la pena](https://aprenderbigdata.com/certificaciones-ingeniero-de-datos/)
 <!-- BLOG-POST-LIST:END -->
