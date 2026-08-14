@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [El CV Tradicional ha Muerto: Por qué Nadie Lee tu Currículum](https://aprenderbigdata.com/buscar-trabajo-ingenieria-datos/)
 - [Los 10 mitos sobre trabajar en datos que están frenando tu carrera](https://aprenderbigdata.com/mitos-data-engineer/)
 - [Cómo conseguir tu primer empleo como Ingeniero de Datos en 2026](https://aprenderbigdata.com/primer-empleo-data-engineer/)
 - [Ingeniería de datos e inteligencia artificial: cómo los agentes de IA cambiarán tu carrera](https://aprenderbigdata.com/ingenieria-datos-inteligencia-artificial/)
 - [Coste del data stack moderno: Evita gastar miles sin necesidad](https://aprenderbigdata.com/coste-data-stack-moderno/)
-- [El futuro del trabajo en 2026: cómo adaptarte y no quedarte atrás](https://aprenderbigdata.com/el-futuro-del-trabajo/)
 <!-- BLOG-POST-LIST:END -->
