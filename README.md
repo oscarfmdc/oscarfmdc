@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [El Futuro de la Ingeniería de Datos con Agentes de IA: ¿Crisis o Oportunidad?](https://aprenderbigdata.com/futuro-ingenieria-datos-agentes-ia/)
 - [Arquitectura de datos para IA: cómo evitar errores en producción](https://aprenderbigdata.com/arquitectura-datos-ia-antifragil/)
 - [El CV Tradicional ha Muerto: Por qué Nadie Lee tu Currículum](https://aprenderbigdata.com/buscar-trabajo-ingenieria-datos/)
 - [Los 10 mitos sobre trabajar en datos que están frenando tu carrera](https://aprenderbigdata.com/mitos-data-engineer/)
 - [Cómo conseguir tu primer empleo como Ingeniero de Datos en 2026](https://aprenderbigdata.com/primer-empleo-data-engineer/)
-- [Ingeniería de datos e inteligencia artificial: cómo los agentes de IA cambiarán tu carrera](https://aprenderbigdata.com/ingenieria-datos-inteligencia-artificial/)
 <!-- BLOG-POST-LIST:END -->
