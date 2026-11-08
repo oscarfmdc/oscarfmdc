@@ -59,9 +59,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo detectar cursos de IA engañosos y evitar perder tiempo y dinero](https://aprenderbigdata.com/detectar-cursos-ia-enganosos/)
 - [Cómo destacar como Data Engineer Junior en el mercado actual](https://aprenderbigdata.com/como-destacar-como-data-engineer-junior/)
 - [El Futuro de la Ingeniería de Datos con Agentes de IA: ¿Crisis o Oportunidad?](https://aprenderbigdata.com/futuro-ingenieria-datos-agentes-ia/)
 - [Arquitectura de datos para IA: cómo evitar errores en producción](https://aprenderbigdata.com/arquitectura-datos-ia-antifragil/)
 - [El CV Tradicional ha Muerto: Por qué Nadie Lee tu Currículum](https://aprenderbigdata.com/buscar-trabajo-ingenieria-datos/)
-- [Los 10 mitos sobre trabajar en datos que están frenando tu carrera](https://aprenderbigdata.com/mitos-data-engineer/)
 <!-- BLOG-POST-LIST:END -->
